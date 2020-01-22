@@ -11,3 +11,13 @@ year: 2019
 date: 
 
 ---
+
+# clara.pole-emploi.fr
+
+Développement du backoffice et du simulateur d'aides. 
+
+Tests unitaires et fonctionnels.
+
+Agilité et déploiement continue.
+
+Rails et VueJS.
