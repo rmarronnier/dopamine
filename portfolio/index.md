@@ -1,6 +1,6 @@
 ---
 works_index: true
-hero_text: "<strong>DOPAMINE.DEV</strong>, votre réalisateur web et mobile"
+hero_text: "<strong>Dopamine</strong>, votre réalisateur web et mobile"
 title: Hero
 
 ---
